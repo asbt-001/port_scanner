@@ -115,7 +115,7 @@ for port_sc in range(port_statr, port_fnish):
         print(f"[+] port {port_sc} is open")
 
 # A note for myself to remember when I wrote this code
-# date = 6/19/2026 2:12 PM
+# date = 6/19/2026 14:12 PM
 ```
 
 ---
